@@ -11,10 +11,14 @@ Simplify your US visa scheduling process with our Chrome extension! This tool au
    - Locate the `answerValue` variable.
    - Update `answerValue` for each security question based on the sequence those questions were selected while creating your account.
 
+![Alt text](IMG_4037.gif)
+
 2. **Load Unpacked Extension**:
    - Open Chrome and go to `chrome://extensions/`.
    - Enable "Developer mode" by toggling the switch in the top-right corner.
    - Click on "Load unpacked" and select the directory containing your extension files.
+
+![Alt text](IMG_4036.gif)
 
 3. **Autofill Security Questions**:
    - As soon as you enter your ID and password on the US Visa Scheduling website, the security questions will be automatically filled with the provided answers.
